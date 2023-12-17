@@ -18,4 +18,3 @@
   <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br>
 
- ### apaixonado por tecnologia, buscando sempre ser melhor!
