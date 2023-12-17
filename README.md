@@ -1,5 +1,3 @@
-### Olá eu sou o Gilbert ✌️ 
-\
 
 ![Gilbert GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertSilvaa&show_icons=true&theme=dracula)
 
