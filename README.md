@@ -1,5 +1,5 @@
 
-![Gilbert GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertSilvaa&show_icons=true&theme=dracula)
+![Gilbert GitHub stats](https://github-readme-stats.vercel.app/api?username=GilbertSilvaa&show_icons=true&theme=aura)
 
 
 ## Tecnologias que já estudei:
