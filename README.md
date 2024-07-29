@@ -2,7 +2,10 @@
 
 ###
 
-<h4 align="left">Sou um desenvolvedor full stack com mais de 4 anos de experiência em desenvolvimento de software, com especialização em C# com .NET<br>e Javascript. Tenho bastante foco no ecossistema .NET, incluindo as tecnologias C#, .NET Core, ASP.NET e Entity Framework. Além disso,<br>possuo expertise em tecnologias JavaScript, como React JS, Node JS, TypeScript e Prisma.<br><br>Também sou um grande fã das melhores práticas de desenvolvimento de software, seguindo os padrões de Domain-Driven Design (DDD) e os<br>princípios SOLID para garantir a criação de código limpo e de fácil manutenção. Além disso, possuo experiência em metodologias ágeis <br>Kanban e Scrum.</h4>
+<h4 align="left">Sou um desenvolvedor full stack com mais de 4 anos de experiência em desenvolvimento de software, com especialização em C# com .NET e Javascript. Tenho bastante foco no ecossistema .NET, incluindo as tecnologias C#, .NET Core, ASP.NET e Entity Framework. Além disso, possuo expertise em tecnologias JavaScript, como React JS, Node JS, TypeScript e Prisma.
+
+Também sou um grande fã das melhores práticas de desenvolvimento de software, seguindo os padrões de Domain-Driven Design (DDD) e os princípios SOLID para garantir a criação de código limpo e de fácil manutenção. Além disso, possuo experiência em metodologias ágeis Kanban e Scrum.
+</h4>
 
 ### 
 
