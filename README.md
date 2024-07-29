@@ -4,7 +4,7 @@
 
 <h4 align="left">Sou um desenvolvedor full stack com mais de 4 anos de experiência em desenvolvimento de software, com especialização em C# com .NET<br>e Javascript. Tenho bastante foco no ecossistema .NET, incluindo as tecnologias C#, .NET Core, ASP.NET e Entity Framework. Além disso,<br>possuo expertise em tecnologias JavaScript, como React JS, Node JS, TypeScript e Prisma.<br><br>Também sou um grande fã das melhores práticas de desenvolvimento de software, seguindo os padrões de Domain-Driven Design (DDD) e os<br>princípios SOLID para garantir a criação de código limpo e de fácil manutenção. Além disso, possuo experiência em metodologias ágeis <br>Kanban e Scrum.</h4>
 
-###
+### 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GilbertSilvaa&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
