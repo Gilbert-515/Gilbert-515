@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Gilbert. Sinta-se bem-vindo(a)</h2>
+<h2 align="left">Olá 👋! Seja bem-vindo(a)</h2>
 
 ###
 
