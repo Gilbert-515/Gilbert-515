@@ -6,6 +6,8 @@
 <br>
 <br>
 Também sou um grande fã das melhores práticas de desenvolvimento de software, seguindo os padrões de Domain-Driven Design (DDD) e os princípios SOLID para garantir a criação de código limpo e de fácil manutenção. 
+  <br>
+  <br>
 </h4>
 
 ### 
